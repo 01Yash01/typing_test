@@ -1,0 +1,11 @@
+{
+ "name": "CPCT English typing",
+ "language": "english",
+ "duration_seconds": 900,
+ "timer_start": "first_keystroke",
+ "backspace_allowed": true,
+ "scoring": "keystroke",
+ "min_net_wpm": 30,
+ "min_accuracy": 85,
+ "notes": "The 30 net WPM English benchmark comes from third-party CPCT guides; the PRD in instruct.md gives no English figure. The 85% accuracy value is copied from the Hindi profile and is unverified. Check the official notification."
+}

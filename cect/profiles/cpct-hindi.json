@@ -1,0 +1,11 @@
+{
+ "name": "CPCT Hindi typing",
+ "language": "hindi",
+ "duration_seconds": 900,
+ "timer_start": "first_keystroke",
+ "backspace_allowed": true,
+ "scoring": "keystroke",
+ "min_net_wpm": 20,
+ "min_accuracy": 85,
+ "notes": "Values follow the PRD in instruct.md (15 min, 20 net WPM, 85% accuracy). Third-party CPCT guides report the typing section as about 15 minutes in total including briefing and review, with roughly 5 minutes of actual typing, and describe net words as correct words (scoring \"word\"). Check the official notification before relying on these numbers."
+}

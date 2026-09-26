@@ -1,0 +1,2258 @@
+{
+ "id": "remington_gail_hindi",
+ "name": "Hindi Remington GAIL (Keyman, SIL Global)",
+ "language": "hindi",
+ "scancodes": "PS/2 set 1 scan codes, as returned by Qt nativeScanCode() and Win32 MapVirtualKey on Windows",
+ "provenance": "Converted by tools/import_keyman_kmn.py from https://github.com/keymanapp/keyboards/blob/9e728f73902787ecf33bfa991d3b77e5ab3dfd3f/release/r/remington_gail/source/remington_gail.kmn (keyboard version 1.1, sha256 1f737a35ce9c465d). License: MIT, Copyright (c) 2022-2026 SIL Global. Keys without a rule produce nothing; the numeric keypad and CapsLock variants (30 expanded rules) are not modelled.",
+ "keys": {
+  "0x02": {
+   "label": "1",
+   "normal": "1",
+   "shift": "।",
+   "altgr": "१",
+   "shift_altgr": "ङ"
+  },
+  "0x03": {
+   "label": "2",
+   "normal": "2",
+   "shift": "/",
+   "altgr": "२",
+   "shift_altgr": "घ"
+  },
+  "0x04": {
+   "label": "3",
+   "normal": "3",
+   "shift": "ः",
+   "altgr": "३",
+   "shift_altgr": "ह्न"
+  },
+  "0x05": {
+   "label": "4",
+   "normal": "4",
+   "shift": "*",
+   "altgr": "४",
+   "shift_altgr": "ह्य"
+  },
+  "0x06": {
+   "label": "5",
+   "normal": "5",
+   "shift": "-",
+   "altgr": "५",
+   "shift_altgr": "%"
+  },
+  "0x07": {
+   "label": "6",
+   "normal": "6",
+   "shift": "‘",
+   "altgr": "६",
+   "shift_altgr": "ह्म"
+  },
+  "0x08": {
+   "label": "7",
+   "normal": "7",
+   "shift": "’",
+   "altgr": "७",
+   "shift_altgr": "÷"
+  },
+  "0x09": {
+   "label": "8",
+   "normal": "8",
+   "shift": "द्ध",
+   "altgr": "८",
+   "shift_altgr": "×"
+  },
+  "0x0A": {
+   "label": "9",
+   "normal": "9",
+   "shift": "त्र",
+   "altgr": "९",
+   "shift_altgr": "द्ग"
+  },
+  "0x0B": {
+   "label": "0",
+   "normal": "0",
+   "shift": "ऋ",
+   "altgr": "०",
+   "shift_altgr": "!"
+  },
+  "0x0C": {
+   "label": "-",
+   "normal": ";",
+   "shift": ".",
+   "altgr": "ञ",
+   "shift_altgr": "ञ्"
+  },
+  "0x0D": {
+   "label": "=",
+   "normal": "ृ",
+   "shift": "्",
+   "altgr": "+",
+   "shift_altgr": "="
+  },
+  "0x10": {
+   "label": "q",
+   "normal": "ु",
+   "shift": "फ",
+   "altgr": "फ्",
+   "shift_altgr": "झ्र"
+  },
+  "0x11": {
+   "label": "w",
+   "normal": "ू",
+   "shift": "ॅ",
+   "altgr": "ॄ",
+   "shift_altgr": "ॠ"
+  },
+  "0x12": {
+   "label": "e",
+   "normal": "म",
+   "shift": "म्",
+   "altgr": "ें",
+   "shift_altgr": "ैं"
+  },
+  "0x13": {
+   "label": "r",
+   "normal": "त",
+   "shift": "त्",
+   "altgr": "त्त",
+   "shift_altgr": "त्त्"
+  },
+  "0x14": {
+   "label": "t",
+   "normal": "ज",
+   "shift": "ज्",
+   "altgr": "ज्र",
+   "shift_altgr": "त्र्"
+  },
+  "0x15": {
+   "label": "y",
+   "normal": "ल",
+   "shift": "ल्",
+   "altgr": "द्द",
+   "shift_altgr": "द्भ"
+  },
+  "0x16": {
+   "label": "u",
+   "normal": "न",
+   "shift": "न्",
+   "altgr": "फ़",
+   "shift_altgr": "न्न"
+  },
+  "0x17": {
+   "label": "i",
+   "normal": "प",
+   "shift": "प्",
+   "altgr": "फ",
+   "shift_altgr": "प्र"
+  },
+  "0x18": {
+   "label": "o",
+   "normal": "व",
+   "shift": "व्",
+   "altgr": "व्न",
+   "shift_altgr": "व्र"
+  },
+  "0x19": {
+   "label": "p",
+   "normal": "च",
+   "shift": "च्",
+   "altgr": "श",
+   "shift_altgr": "ढ़"
+  },
+  "0x1A": {
+   "label": "[",
+   "normal": "ख्",
+   "shift": "क्ष्",
+   "altgr": "ख",
+   "shift_altgr": "क्ष"
+  },
+  "0x1B": {
+   "label": "]",
+   "normal": ",",
+   "shift": "द्व",
+   "altgr": "द्ध",
+   "shift_altgr": "द्ब"
+  },
+  "0x1E": {
+   "label": "a",
+   "normal": "ं",
+   "shift": "ा",
+   "altgr": "ह्ण",
+   "shift_altgr": "ख़"
+  },
+  "0x1F": {
+   "label": "s",
+   "normal": "े",
+   "shift": "ै",
+   "altgr": "भ",
+   "shift_altgr": "ष्ट"
+  },
+  "0x20": {
+   "label": "d",
+   "normal": "क",
+   "shift": "क्",
+   "altgr": "ध",
+   "shift_altgr": "ष्ठ"
+  },
+  "0x21": {
+   "label": "f",
+   "normal": "ि",
+   "shift": "थ्",
+   "altgr": "य्",
+   "shift_altgr": "थ"
+  },
+  "0x22": {
+   "label": "g",
+   "normal": "ह",
+   "shift": "ळ",
+   "altgr": "घ",
+   "shift_altgr": "ग्र"
+  },
+  "0x23": {
+   "label": "h",
+   "normal": "ी",
+   "shift": "भ्",
+   "altgr": "ीं",
+   "shift_altgr": "ञ्च"
+  },
+  "0x24": {
+   "label": "j",
+   "normal": "र",
+   "shift": "श्र",
+   "altgr": "र्‍",
+   "shift_altgr": "श्"
+  },
+  "0x25": {
+   "label": "k",
+   "normal": "ा",
+   "shift": "ज्ञ",
+   "altgr": "्य",
+   "shift_altgr": "ज्ञ्"
+  },
+  "0x26": {
+   "label": "l",
+   "normal": "स",
+   "shift": "स्",
+   "altgr": "स्त्र",
+   "shift_altgr": "स्र"
+  },
+  "0x27": {
+   "label": ";",
+   "normal": "य",
+   "shift": "रू",
+   "altgr": ";",
+   "shift_altgr": "ञ्ज"
+  },
+  "0x28": {
+   "label": "'",
+   "normal": "श्",
+   "shift": "ष्",
+   "altgr": "श",
+   "shift_altgr": "ष"
+  },
+  "0x29": {
+   "label": "`",
+   "normal": "़",
+   "shift": "द्य",
+   "altgr": "‌",
+   "shift_altgr": "‍"
+  },
+  "0x2B": {
+   "label": "\\",
+   "normal": "(",
+   "shift": ")",
+   "altgr": "ऽ",
+   "shift_altgr": "ॐ"
+  },
+  "0x2C": {
+   "label": "z",
+   "normal": "्र",
+   "shift": "र्",
+   "altgr": "ो",
+   "shift_altgr": "ौ"
+  },
+  "0x2D": {
+   "label": "x",
+   "normal": "ग",
+   "shift": "ग्",
+   "altgr": "द्र",
+   "shift_altgr": "ग़"
+  },
+  "0x2E": {
+   "label": "c",
+   "normal": "ब",
+   "shift": "ब्",
+   "altgr": "ड़",
+   "shift_altgr": "ज़"
+  },
+  "0x2F": {
+   "label": "v",
+   "normal": "अ",
+   "shift": "ट",
+   "altgr": "ट्",
+   "shift_altgr": "ट्ट"
+  },
+  "0x30": {
+   "label": "b",
+   "normal": "इ",
+   "shift": "ठ",
+   "altgr": "ई",
+   "shift_altgr": "ईं"
+  },
+  "0x31": {
+   "label": "n",
+   "normal": "द",
+   "shift": "छ",
+   "altgr": "ण",
+   "shift_altgr": "द्म"
+  },
+  "0x32": {
+   "label": "m",
+   "normal": "उ",
+   "shift": "ड",
+   "altgr": "ऊ",
+   "shift_altgr": "ड्ड"
+  },
+  "0x33": {
+   "label": ",",
+   "normal": "ए",
+   "shift": "ढ",
+   "altgr": "ँ",
+   "shift_altgr": "ढ्ढ"
+  },
+  "0x34": {
+   "label": ".",
+   "normal": "ण्",
+   "shift": "झ",
+   "altgr": ".",
+   "shift_altgr": "झ्"
+  },
+  "0x35": {
+   "label": "/",
+   "normal": "ध्",
+   "shift": "घ्",
+   "altgr": "/",
+   "shift_altgr": "?"
+  },
+  "0x39": {
+   "label": " ",
+   "normal": " ",
+   "shift": null,
+   "altgr": null,
+   "shift_altgr": null
+  }
+ },
+ "rules": [
+  {
+   "context": "ऄ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऄ"
+  },
+  {
+   "context": "अ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "अ"
+  },
+  {
+   "context": "आ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "आ"
+  },
+  {
+   "context": "इ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "इ"
+  },
+  {
+   "context": "ई्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ई"
+  },
+  {
+   "context": "उ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "उ"
+  },
+  {
+   "context": "ऊ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऊ"
+  },
+  {
+   "context": "ऋ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऋ"
+  },
+  {
+   "context": "ऌ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऌ"
+  },
+  {
+   "context": "ऍ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऍ"
+  },
+  {
+   "context": "ऎ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऎ"
+  },
+  {
+   "context": "ए्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ए"
+  },
+  {
+   "context": "ऐ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऐ"
+  },
+  {
+   "context": "ऑ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऑ"
+  },
+  {
+   "context": "ऒ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऒ"
+  },
+  {
+   "context": "ओ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ओ"
+  },
+  {
+   "context": "औ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "औ"
+  },
+  {
+   "context": "क्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "क"
+  },
+  {
+   "context": "ख्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ख"
+  },
+  {
+   "context": "ग्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ग"
+  },
+  {
+   "context": "घ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "घ"
+  },
+  {
+   "context": "ङ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ङ"
+  },
+  {
+   "context": "च्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "च"
+  },
+  {
+   "context": "छ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "छ"
+  },
+  {
+   "context": "ज्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ज"
+  },
+  {
+   "context": "झ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "झ"
+  },
+  {
+   "context": "ञ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ञ"
+  },
+  {
+   "context": "ट्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ट"
+  },
+  {
+   "context": "ठ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ठ"
+  },
+  {
+   "context": "ड्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ड"
+  },
+  {
+   "context": "ढ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ढ"
+  },
+  {
+   "context": "ण्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ण"
+  },
+  {
+   "context": "त्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "त"
+  },
+  {
+   "context": "थ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "थ"
+  },
+  {
+   "context": "द्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "द"
+  },
+  {
+   "context": "ध्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ध"
+  },
+  {
+   "context": "न्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "न"
+  },
+  {
+   "context": "ऩ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऩ"
+  },
+  {
+   "context": "प्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "प"
+  },
+  {
+   "context": "फ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "फ"
+  },
+  {
+   "context": "ब्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ब"
+  },
+  {
+   "context": "भ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "भ"
+  },
+  {
+   "context": "म्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "म"
+  },
+  {
+   "context": "य्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "य"
+  },
+  {
+   "context": "र्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "र"
+  },
+  {
+   "context": "ऱ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऱ"
+  },
+  {
+   "context": "ल्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ल"
+  },
+  {
+   "context": "ळ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ळ"
+  },
+  {
+   "context": "ऴ्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऴ"
+  },
+  {
+   "context": "व्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "व"
+  },
+  {
+   "context": "श्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "श"
+  },
+  {
+   "context": "ष्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ष"
+  },
+  {
+   "context": "स्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "स"
+  },
+  {
+   "context": "ह्",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ह"
+  },
+  {
+   "context": "ऄ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऄ"
+  },
+  {
+   "context": "अ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "अ"
+  },
+  {
+   "context": "आ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "आ"
+  },
+  {
+   "context": "इ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "इ"
+  },
+  {
+   "context": "ई्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ई"
+  },
+  {
+   "context": "उ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "उ"
+  },
+  {
+   "context": "ऊ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऊ"
+  },
+  {
+   "context": "ऋ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऋ"
+  },
+  {
+   "context": "ऌ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऌ"
+  },
+  {
+   "context": "ऍ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऍ"
+  },
+  {
+   "context": "ऎ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऎ"
+  },
+  {
+   "context": "ए्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ए"
+  },
+  {
+   "context": "ऐ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऐ"
+  },
+  {
+   "context": "ऑ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऑ"
+  },
+  {
+   "context": "ऒ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऒ"
+  },
+  {
+   "context": "ओ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ओ"
+  },
+  {
+   "context": "औ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "औ"
+  },
+  {
+   "context": "क्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "क"
+  },
+  {
+   "context": "ख्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ख"
+  },
+  {
+   "context": "ग्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ग"
+  },
+  {
+   "context": "घ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "घ"
+  },
+  {
+   "context": "ङ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ङ"
+  },
+  {
+   "context": "च्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "च"
+  },
+  {
+   "context": "छ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "छ"
+  },
+  {
+   "context": "ज्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ज"
+  },
+  {
+   "context": "झ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "झ"
+  },
+  {
+   "context": "ञ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ञ"
+  },
+  {
+   "context": "ट्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ट"
+  },
+  {
+   "context": "ठ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ठ"
+  },
+  {
+   "context": "ड्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ड"
+  },
+  {
+   "context": "ढ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ढ"
+  },
+  {
+   "context": "ण्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ण"
+  },
+  {
+   "context": "त्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "त"
+  },
+  {
+   "context": "थ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "थ"
+  },
+  {
+   "context": "द्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "द"
+  },
+  {
+   "context": "ध्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ध"
+  },
+  {
+   "context": "न्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "न"
+  },
+  {
+   "context": "ऩ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऩ"
+  },
+  {
+   "context": "प्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "प"
+  },
+  {
+   "context": "फ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "फ"
+  },
+  {
+   "context": "ब्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ब"
+  },
+  {
+   "context": "भ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "भ"
+  },
+  {
+   "context": "म्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "म"
+  },
+  {
+   "context": "य्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "य"
+  },
+  {
+   "context": "र्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "र"
+  },
+  {
+   "context": "ऱ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऱ"
+  },
+  {
+   "context": "ल्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ल"
+  },
+  {
+   "context": "ळ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ळ"
+  },
+  {
+   "context": "ऴ्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऴ"
+  },
+  {
+   "context": "व्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "व"
+  },
+  {
+   "context": "श्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "श"
+  },
+  {
+   "context": "ष्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ष"
+  },
+  {
+   "context": "स्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "स"
+  },
+  {
+   "context": "ह्",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ह"
+  },
+  {
+   "context": "ऄ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऄ"
+  },
+  {
+   "context": "अ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "अ"
+  },
+  {
+   "context": "आ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "आ"
+  },
+  {
+   "context": "इ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "इ"
+  },
+  {
+   "context": "ई्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ई"
+  },
+  {
+   "context": "उ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "उ"
+  },
+  {
+   "context": "ऊ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऊ"
+  },
+  {
+   "context": "ऋ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऋ"
+  },
+  {
+   "context": "ऌ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऌ"
+  },
+  {
+   "context": "ऍ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऍ"
+  },
+  {
+   "context": "ऎ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऎ"
+  },
+  {
+   "context": "ए्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ए"
+  },
+  {
+   "context": "ऐ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऐ"
+  },
+  {
+   "context": "ऑ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऑ"
+  },
+  {
+   "context": "ऒ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऒ"
+  },
+  {
+   "context": "ओ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ओ"
+  },
+  {
+   "context": "औ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "औ"
+  },
+  {
+   "context": "क्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "क"
+  },
+  {
+   "context": "ख्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ख"
+  },
+  {
+   "context": "ग्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ग"
+  },
+  {
+   "context": "घ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "घ"
+  },
+  {
+   "context": "ङ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ङ"
+  },
+  {
+   "context": "च्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "च"
+  },
+  {
+   "context": "छ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "छ"
+  },
+  {
+   "context": "ज्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ज"
+  },
+  {
+   "context": "झ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "झ"
+  },
+  {
+   "context": "ञ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ञ"
+  },
+  {
+   "context": "ट्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ट"
+  },
+  {
+   "context": "ठ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ठ"
+  },
+  {
+   "context": "ड्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ड"
+  },
+  {
+   "context": "ढ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ढ"
+  },
+  {
+   "context": "ण्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ण"
+  },
+  {
+   "context": "त्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "त"
+  },
+  {
+   "context": "थ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "थ"
+  },
+  {
+   "context": "द्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "द"
+  },
+  {
+   "context": "ध्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ध"
+  },
+  {
+   "context": "न्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "न"
+  },
+  {
+   "context": "ऩ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऩ"
+  },
+  {
+   "context": "प्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "प"
+  },
+  {
+   "context": "फ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "फ"
+  },
+  {
+   "context": "ब्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ब"
+  },
+  {
+   "context": "भ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "भ"
+  },
+  {
+   "context": "म्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "म"
+  },
+  {
+   "context": "य्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "य"
+  },
+  {
+   "context": "र्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "र"
+  },
+  {
+   "context": "ऱ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऱ"
+  },
+  {
+   "context": "ल्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ल"
+  },
+  {
+   "context": "ळ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ळ"
+  },
+  {
+   "context": "ऴ्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ऴ"
+  },
+  {
+   "context": "व्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "व"
+  },
+  {
+   "context": "श्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "श"
+  },
+  {
+   "context": "ष्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ष"
+  },
+  {
+   "context": "स्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "स"
+  },
+  {
+   "context": "ह्‍",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "ह"
+  },
+  {
+   "context": "ऄ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऄ"
+  },
+  {
+   "context": "अ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "अ"
+  },
+  {
+   "context": "आ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "आ"
+  },
+  {
+   "context": "इ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "इ"
+  },
+  {
+   "context": "ई्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ई"
+  },
+  {
+   "context": "उ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "उ"
+  },
+  {
+   "context": "ऊ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऊ"
+  },
+  {
+   "context": "ऋ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऋ"
+  },
+  {
+   "context": "ऌ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऌ"
+  },
+  {
+   "context": "ऍ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऍ"
+  },
+  {
+   "context": "ऎ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऎ"
+  },
+  {
+   "context": "ए्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ए"
+  },
+  {
+   "context": "ऐ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऐ"
+  },
+  {
+   "context": "ऑ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऑ"
+  },
+  {
+   "context": "ऒ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऒ"
+  },
+  {
+   "context": "ओ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ओ"
+  },
+  {
+   "context": "औ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "औ"
+  },
+  {
+   "context": "क्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "क"
+  },
+  {
+   "context": "ख्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ख"
+  },
+  {
+   "context": "ग्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ग"
+  },
+  {
+   "context": "घ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "घ"
+  },
+  {
+   "context": "ङ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ङ"
+  },
+  {
+   "context": "च्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "च"
+  },
+  {
+   "context": "छ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "छ"
+  },
+  {
+   "context": "ज्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ज"
+  },
+  {
+   "context": "झ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "झ"
+  },
+  {
+   "context": "ञ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ञ"
+  },
+  {
+   "context": "ट्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ट"
+  },
+  {
+   "context": "ठ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ठ"
+  },
+  {
+   "context": "ड्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ड"
+  },
+  {
+   "context": "ढ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ढ"
+  },
+  {
+   "context": "ण्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ण"
+  },
+  {
+   "context": "त्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "त"
+  },
+  {
+   "context": "थ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "थ"
+  },
+  {
+   "context": "द्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "द"
+  },
+  {
+   "context": "ध्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ध"
+  },
+  {
+   "context": "न्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "न"
+  },
+  {
+   "context": "ऩ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऩ"
+  },
+  {
+   "context": "प्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "प"
+  },
+  {
+   "context": "फ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "फ"
+  },
+  {
+   "context": "ब्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ब"
+  },
+  {
+   "context": "भ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "भ"
+  },
+  {
+   "context": "म्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "म"
+  },
+  {
+   "context": "य्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "य"
+  },
+  {
+   "context": "र्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "र"
+  },
+  {
+   "context": "ऱ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऱ"
+  },
+  {
+   "context": "ल्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ल"
+  },
+  {
+   "context": "ळ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ळ"
+  },
+  {
+   "context": "ऴ्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ऴ"
+  },
+  {
+   "context": "व्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "व"
+  },
+  {
+   "context": "श्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "श"
+  },
+  {
+   "context": "ष्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ष"
+  },
+  {
+   "context": "स्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "स"
+  },
+  {
+   "context": "ह्‍",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ह"
+  },
+  {
+   "context": "न",
+   "key": "0x29",
+   "shift": false,
+   "altgr": false,
+   "output": "ऩ"
+  },
+  {
+   "context": "र",
+   "key": "0x29",
+   "shift": false,
+   "altgr": false,
+   "output": "ऱ"
+  },
+  {
+   "context": "ळ",
+   "key": "0x29",
+   "shift": false,
+   "altgr": false,
+   "output": "ऴ"
+  },
+  {
+   "context": "क",
+   "key": "0x29",
+   "shift": false,
+   "altgr": false,
+   "output": "क़"
+  },
+  {
+   "context": "ख",
+   "key": "0x29",
+   "shift": false,
+   "altgr": false,
+   "output": "ख़"
+  },
+  {
+   "context": "ग",
+   "key": "0x29",
+   "shift": false,
+   "altgr": false,
+   "output": "ग़"
+  },
+  {
+   "context": "ज",
+   "key": "0x29",
+   "shift": false,
+   "altgr": false,
+   "output": "ज़"
+  },
+  {
+   "context": "ड",
+   "key": "0x29",
+   "shift": false,
+   "altgr": false,
+   "output": "ड़"
+  },
+  {
+   "context": "ढ",
+   "key": "0x29",
+   "shift": false,
+   "altgr": false,
+   "output": "ढ़"
+  },
+  {
+   "context": "फ",
+   "key": "0x29",
+   "shift": false,
+   "altgr": false,
+   "output": "फ़"
+  },
+  {
+   "context": "य",
+   "key": "0x29",
+   "shift": false,
+   "altgr": false,
+   "output": "य़"
+  },
+  {
+   "context": "अ",
+   "key": "0x25",
+   "shift": false,
+   "altgr": false,
+   "output": "आ"
+  },
+  {
+   "context": "अ",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "आ"
+  },
+  {
+   "context": "आ",
+   "key": "0x11",
+   "shift": true,
+   "altgr": false,
+   "output": "ऑ"
+  },
+  {
+   "context": "आ",
+   "key": "0x1F",
+   "shift": false,
+   "altgr": false,
+   "output": "ओ"
+  },
+  {
+   "context": "आ",
+   "key": "0x1F",
+   "shift": true,
+   "altgr": false,
+   "output": "औ"
+  },
+  {
+   "context": "इ",
+   "key": "0x2C",
+   "shift": true,
+   "altgr": false,
+   "output": "ई"
+  },
+  {
+   "context": "उ",
+   "key": "0x10",
+   "shift": false,
+   "altgr": false,
+   "output": "ऊ"
+  },
+  {
+   "context": "ए",
+   "key": "0x11",
+   "shift": true,
+   "altgr": false,
+   "output": "ऍ"
+  },
+  {
+   "context": "ए",
+   "key": "0x1F",
+   "shift": false,
+   "altgr": false,
+   "output": "ऐ"
+  },
+  {
+   "context": "ा",
+   "key": "0x11",
+   "shift": true,
+   "altgr": false,
+   "output": "ॉ"
+  },
+  {
+   "context": "ा",
+   "key": "0x1F",
+   "shift": false,
+   "altgr": false,
+   "output": "ो"
+  },
+  {
+   "context": "ा",
+   "key": "0x1F",
+   "shift": true,
+   "altgr": false,
+   "output": "ौ"
+  },
+  {
+   "context": "ॅ",
+   "key": "0x1E",
+   "shift": false,
+   "altgr": false,
+   "output": "ँ"
+  },
+  {
+   "context": "।",
+   "key": "0x02",
+   "shift": true,
+   "altgr": false,
+   "output": "॥"
+  },
+  {
+   "context": "ृ",
+   "key": "0x0D",
+   "shift": false,
+   "altgr": false,
+   "output": "ॄ"
+  },
+  {
+   "context": "ॉ",
+   "key": "0x1E",
+   "shift": false,
+   "altgr": false,
+   "output": "ाँ"
+  },
+  {
+   "context": "ं",
+   "key": "0x11",
+   "shift": true,
+   "altgr": false,
+   "output": "ँ"
+  },
+  {
+   "context": "ॅ",
+   "key": "0x1E",
+   "shift": true,
+   "altgr": false,
+   "output": "ँ"
+  },
+  {
+   "context": "1",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "1:"
+  },
+  {
+   "context": "2",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "2:"
+  },
+  {
+   "context": "3",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "3:"
+  },
+  {
+   "context": "4",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "4:"
+  },
+  {
+   "context": "5",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "5:"
+  },
+  {
+   "context": "6",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "6:"
+  },
+  {
+   "context": "7",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "7:"
+  },
+  {
+   "context": "8",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "8:"
+  },
+  {
+   "context": "9",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "9:"
+  },
+  {
+   "context": "0",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "0:"
+  },
+  {
+   "context": ";",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": ";:"
+  },
+  {
+   "context": ",",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": ",:"
+  },
+  {
+   "context": "(",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "(:"
+  },
+  {
+   "context": ")",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "):"
+  },
+  {
+   "context": "/",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "/:"
+  },
+  {
+   "context": "*",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "*:"
+  },
+  {
+   "context": "-",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "-:"
+  },
+  {
+   "context": "‘",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "‘:"
+  },
+  {
+   "context": "’",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "’:"
+  },
+  {
+   "context": "“",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "“:"
+  },
+  {
+   "context": "”",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "”:"
+  },
+  {
+   "context": "÷",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "÷:"
+  },
+  {
+   "context": "×",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "×:"
+  },
+  {
+   "context": "!",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "!:"
+  },
+  {
+   "context": "*",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": "*:"
+  },
+  {
+   "context": " ",
+   "key": "0x04",
+   "shift": true,
+   "altgr": false,
+   "output": " :"
+  },
+  {
+   "context": "‘",
+   "key": "0x07",
+   "shift": true,
+   "altgr": false,
+   "output": "“"
+  },
+  {
+   "context": "’",
+   "key": "0x08",
+   "shift": true,
+   "altgr": false,
+   "output": "”"
+  }
+ ]
+}
