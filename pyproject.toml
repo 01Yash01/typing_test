@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cect-typing"
+version = "0.1.0"
+description = "CPCT/CECT bilingual (Hindi/English) typing examination simulator"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+ui = ["PySide6-Essentials>=6.7"]
+dev = ["pytest>=8"]
+
+[tool.setuptools.packages.find]
+include = ["cect*"]
+
+[tool.setuptools.package-data]
+"cect.profiles" = ["*.json"]
+"cect.passages" = ["*.json"]
+"cect.keymaps" = ["*.json", "LICENSE-*.md"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
